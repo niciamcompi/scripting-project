@@ -122,11 +122,3 @@ Dieses Projekt deckt folgende Themen ab:
 * Geodatenanalyse
 
 ---
-
-## 📌 Hinweise
-
-* Die Daten sind projektspezifisch und dienen zu Lernzwecken
-* Ergebnisse können je nach Datensatz variieren
-* Für grössere Datensätze kann eine höhere Rechenleistung notwendig sein
-
----
